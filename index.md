@@ -38,8 +38,6 @@ EDA • Feature Engineering • Statistical Analysis • Dashboarding (Power BI 
 ---
 ## 📄 Resume
 
-[📥 Download My Resume](./assets/## 📄 Resume
-
 [📥 Download My Resume](./assets/resume.pdf)
 
 

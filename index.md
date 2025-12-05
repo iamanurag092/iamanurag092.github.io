@@ -9,9 +9,9 @@ I love working on real-world problems, interpreting data, designing ML pipelines
 
 > **You will update this section later.**
 
-- Pneumonia Detection using CNN  
-- AI-powered Resume Analyzer  
-- Retail Sales Analytics Dashboard  
+- [Pneumonia Detection using CNN](./projects/pneumonia.md)  
+- AI-powered Resume Analyzer (coming soon)  
+- Retail Sales Analytics Dashboard (coming soon)   
 
 ---
 

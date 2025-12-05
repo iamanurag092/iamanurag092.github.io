@@ -1,7 +1,12 @@
 # Hello, I'm Anurag 👋
 
-I build intelligent solutions using **AI/ML** and **Data Analytics**.  
-I love working on real-world problems, interpreting data, designing ML pipelines, and building deployable models.
+I'm a budding **AI/ML & Data Analytics engineer** focused on building practical, end-to-end solutions —  
+from **data cleaning & exploration** to **model development, evaluation, and deployment**.
+
+I enjoy:
+- Working with **real-world datasets**
+- Designing **ML/NLP/CV pipelines**
+- Translating data into **clear, actionable insights**
 
 ---
 
@@ -13,12 +18,22 @@ I love working on real-world problems, interpreting data, designing ML pipelines
 
 ---
 
+## 🛠️ Skills
+
+**Machine Learning & AI**  
+Regression • Classification • CNNs • NLP (basic) • Model Evaluation (Accuracy, F1, ROC-AUC)
+
+**Data Analytics**  
+EDA • Feature Engineering • Statistical Analysis • Dashboarding (Power BI / Tableau / Streamlit)
+
+
+
 ## 🧠 Tech Stack
 
-**Languages:** Python, SQL  
+**Languages:** Python, SQL, Java 
 **ML Tools:** TensorFlow, Scikit-learn  
 **Data Tools:** Pandas, NumPy, Matplotlib  
-**Development:** Flask, Git, GitHub  
+**Development:** Flask, Git, GitHub, Streamlit  
 
 ---
 

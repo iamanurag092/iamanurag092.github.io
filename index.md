@@ -36,6 +36,13 @@ EDA • Feature Engineering • Statistical Analysis • Dashboarding (Power BI 
 **Development:** Flask, Git, GitHub, Streamlit  
 
 ---
+## 📄 Resume
+
+[📥 Download My Resume](./assets/## 📄 Resume
+
+[📥 Download My Resume](./assets/resume.pdf)
+
+
 
 ## 📬 Connect with Me
 

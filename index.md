@@ -45,5 +45,7 @@ EDA • Feature Engineering • Statistical Analysis • Dashboarding (Power BI 
 ## 📬 Connect with Me
 
 📧 Email:  iamanuragt092@gmail.com
+
 🔗 LinkedIn:  www.linkedin.com/in/anurag092
+
 💻 GitHub:  https://github.com/iamanurag092

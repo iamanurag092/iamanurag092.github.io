@@ -7,8 +7,6 @@ I love working on real-world problems, interpreting data, designing ML pipelines
 
 ## 🔥 Featured Projects
 
-> **You will update this section later.**
-
 - [Pneumonia Detection using CNN](./projects/pneumonia.md)  
 - AI-powered Resume Analyzer (coming soon)  
 - Retail Sales Analytics Dashboard (coming soon)   

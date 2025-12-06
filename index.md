@@ -13,7 +13,7 @@ I enjoy:
 ## 🔥 Featured Projects
 
 - [Pneumonia Detection using CNN](./projects/pneumonia.md)  
-- AI-powered Resume Analyzer (coming soon)  
+- [Customer Churn Prediction](./projects/customer_churn_prediction.md)  
 - Retail Sales Analytics Dashboard (coming soon)   
 
 ---
